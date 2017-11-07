@@ -9,6 +9,9 @@ A program that allows users to replay a game of chess.  <br />
 <b>What was this written in?</b><br />
 Ember.js, Node.js, Javascript, and MySQL.
 
+<b>Where is the code?</b><br />
+Repository is private for now.  Code is available upon request.  <br />
+
 <b> Where can I use this? </b><br />
 Olga 0.0 was written by Stu and has been de-commissioned.  It cannot be used.  Ever again.
 
