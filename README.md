@@ -35,4 +35,4 @@ Thank you to Chessgames.com members who found (and continue to find!) these.
 [Stu Taylor](https://github.com/DrPumpkin)<br />
 
 <b>Inspiration:</b><br />
-Chessgames.com has been plagued with terrible PGN viewers for years.  PGN4Web and other Java based viewers had no ability to create new variations, and no Stockfish integration.  Olga solves these problems and much more.
+Chessgames.com has been plagued with terrible PGN viewers for years.  PGN4Web and other Java based viewers had no ability to create new variations and no Stockfish integration.  Olga solves these problems and much more.
