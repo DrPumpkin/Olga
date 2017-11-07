@@ -24,8 +24,7 @@ Olga 2.0 is being written by Stu, Chris and Daniel Freeman.
 <b>Bounty List (bugs):</b><br />
 Thank you to Chessgames.com members who found (and continue to find!) these.
 
-1. 3 Move repetition reports for the rest of the game 
-http://github.com/jhlywa/chess.js/i... 
+1.  3 Move repetition reports for the rest of the game 
 2.  Piece animation "wiggles" when landing on a destination square, on some platforms in some circumstances.
 3.  No way to alter the speed of "autoplay" mode from mobile phones or tablets. (Desktops can press 1-9, or 0 for lightning-mode.)
 4.  Copying and pasting the game score strips out the spaces (e.g. 1.e4e52.Nf3Nc63.Bb5 etc.)
