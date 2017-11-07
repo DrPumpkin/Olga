@@ -1,4 +1,4 @@
-<a href="url"><img src="https://github.com/DrPumpkin/Olga/blob/master/olga.jpg" height="550" width="450" ></a>
+<a href="url"><img src="https://github.com/DrPumpkin/Olga/blob/master/olga.jpg" height="550" width="400" ></a>
 
 <b>What is this?</b><br />
 A PGN viewer for Chessgames.com  <br />
