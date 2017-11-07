@@ -19,7 +19,6 @@ Olga 1.0 was written by Christopher Dean, including a full re-write.  It is now 
 
 [Olga](http://www.chessgames.com/perl/chessgame?gid=1890872)<br />
 [Olga Help Page](http://www.chessgames.com/olgahelp.html)<br />
-[Olga Forum](http://www.chessgames.com/~Olga+Viewer)<br />
 
 Olga 2.0 is being written by Stu, Chris and Daniel Freeman.  
 
