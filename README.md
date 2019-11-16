@@ -13,14 +13,11 @@ Ember.js, Ruby, Javascript, and MySQL.
 Repository is private for now.  Code is available upon request.  <br />
 
 <b> Where can I use this? </b><br />
-Olga 0.0 was written by Stu and has been de-commissioned.  It cannot be used.  Ever again.
 
 Olga 1.0 was written by Christopher Dean, including a full re-write.  It is now the default PGN viewer for Chessgames.com.
 
 [Olga](http://www.chessgames.com/perl/chessgame?gid=1890872)<br />
 [Olga Help Page](http://www.chessgames.com/olgahelp.html)<br />
-
-Olga 2.0 is being written by Stu, Chris and Daniel Freeman.  
 
 <b>Upcoming Features</b><br />
 
